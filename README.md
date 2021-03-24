@@ -1,6 +1,15 @@
 <h2 align="center">user@here:~$ whoami</h2>
 Hey there, I'm Evey. I'm a recent BS Computer Science graduate with a passion for security, building (and breaking) things, and open source software. I am Security+ certified and currently searching for employment.
 
+###
+
+Currently reading: The Web Application Hacker's Handbook 2nd Edition (ISBN: 978-1-118-02647-2)
+
+###
+
+Currently watching: ItPro.Tv Course: CompTIA PenTest+ (PT0-001)
+
+
 <h2 align="center">talk to me</h2>
 
 [![Twitter badge](https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hartline__e)
