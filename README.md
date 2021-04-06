@@ -3,12 +3,19 @@ Hey there, I'm Evey. I'm a recent BS Computer Science graduate with a passion fo
 
 ###
 
-Currently reading: The Web Application Hacker's Handbook 2nd Edition (ISBN: 978-1-118-02647-2)
+Currently reading: 
+
+The Web Application Hacker's Handbook 2nd Edition (ISBN: 978-1-118-02647-2)
 
 ###
 
-Currently watching: ItPro.Tv Course: CompTIA PenTest+ (PT0-001)
+Currently watching:
 
+ItPro.Tv Course: CompTIA PenTest+ (PT0-001)
+
+ItPro.Tv Course: CompTIA CySA+ (CS0-002)
+
+Udemy Course: Automate the Boring Stuff with Python Programming
 
 <h2 align="center">talk to me</h2>
 
@@ -38,7 +45,8 @@ Currently watching: ItPro.Tv Course: CompTIA PenTest+ (PT0-001)
 
 ### certification study 
 
-![Pentest+ badge](https://img.shields.io/badge/Pentest_+-555555?style=for-the-badge)
+![Pentest+ badge](https://img.shields.io/badge/CompTIA_Pentest_+-555555?style=for-the-badge)
+![CySA+ badge](https://img.shields.io/badge/CompTIA_CySA_+-555555?style=for-the-badge)
 
 ### homelab 
 
